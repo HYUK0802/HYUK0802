@@ -9,12 +9,13 @@
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@tig05205">
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
     
   
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tig05205)](https://github.com/tig05205/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tig05205)](https://github.com/tig05205/velog-readme-stats)
+
 
 </div><br>
 
