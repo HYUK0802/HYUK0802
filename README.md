@@ -1,10 +1,11 @@
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JaeHyuk's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header(https://capsulerender.vercel.app/apitype=waving&color=timeGradient&text=Welcome%20to%20JaeHyuk's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYUK0802)](https://github.com/HYUK0802/github-readme-stats)
 <br>
+<div style="display:flex; flex-direction:row;"></div>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
