@@ -4,8 +4,8 @@
 ---
   
 [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=HYUK0802&include_all_commits=true&show_icons=true&theme=cobalt)]
-(https://github.com/HYUK0802/github-readme-stats)
+username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/bi-sz/github-readme-stats)
 <br>
 
 ## 💻 DEV's log 💻
